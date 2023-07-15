@@ -1,5 +1,5 @@
 ---
-layout: page-head
+layout: home
 permalink: /
 title: Yuan Liu
 ---
