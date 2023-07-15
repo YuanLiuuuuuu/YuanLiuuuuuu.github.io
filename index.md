@@ -11,8 +11,8 @@ Currently, I am a researcher at [OpenMMLab](https://openmmlab.com/), Shanghai AI
 
 ## News
 
-* One paper is accepted by ICCV2023 🎉🎉🎉.
-* We release [MMBench](https://opencompass.org.cn/mmbench), a meticulously curated dataset to comprehensively evaluate a vision-language model 🔥🔥🔥.
+* **2023.07.14** One paper is accepted by ICCV2023 🎉🎉🎉.
+* **2023.07.13** We release [MMBench](https://opencompass.org.cn/mmbench), a meticulously curated dataset to comprehensively evaluate a vision-language model 🔥🔥🔥.
 
 
 ## Experience
