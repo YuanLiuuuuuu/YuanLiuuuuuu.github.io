@@ -1,9 +1,15 @@
-- type: dates
-  title: Dates
-  url: /dates/
-#- type: categories
-#  title: Categories
-#  url: /categories/
-- type: tags
-  title: Tags
-  url: /tags/
+- type: categories
+  title: Home
+  url: /
+- type: categories
+  title: Publication
+  url: /publications/
+- type: categories
+  title: Project
+  url: /projects/
+# - type: dates
+#   title: Blog
+#   url: /blogs/
+# - type: tags
+#   title: Tag
+#   url: /tags/
