@@ -19,7 +19,7 @@ Currently, I am a researcher at [OpenMMLab](https://openmmlab.com/), Shanghai AI
 ## Experience
 
 * 2021.11-Current: Researcher at Shanghai AI Laboratory
-* 2020.07-2021.12: Master in Electronic and Electrical Engineering, The University of Hong Kong
+* 2020.07-2021.12: Master in Electronic and Electrical Engineering, the University of Hong Kong
 * 2020.02-2021.11: Intern at ByteDance
 * 2019.11-2020.02: Intern at Horizon Robotics
 * 2016.08-2020.06: Bachelor in Electronic and Electrical Engineering, Southeast University
