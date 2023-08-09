@@ -26,7 +26,3 @@ Currently, I am a researcher at [OpenMMLab](https://openmmlab.com/), Shanghai AI
 * 2019.11-2020.02: Intern at Horizon Robotics
 * 2018.11-2019.02: Intern at Microsoft
 
-<center>
-    <img src="https://github.com/open-mmlab/mmpretrain/assets/30762564/27c8a98c-7721-4322-8987-9d00d42aabb9" width="100"><img src="https://github.com/open-mmlab/mmpretrain/assets/30762564/3d96853d-8e8b-4a51-af26-9d92584142f6" width="90"><img src="https://github.com/open-mmlab/mmpretrain/assets/30762564/50999adf-c05d-4dd9-bbd5-8de496beaa2a" width="100"><img src="https://images.crunchbase.com/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/mkqyfzvw5f3020ojg80e" width="300"><img src="https://media.licdn.com/dms/image/C5612AQF70FpMTwv0OQ/article-cover_image-shrink_600_2000/0/1626344136902?e=2147483647&v=beta&t=wAVf9QUffDwdz-4_bGSy5UtTzD8WHlTr2m611pbtKP0" width="207"><img src="https://media.licdn.com/dms/image/C560BAQHW1euov6T8ng/company-logo_200_200/0/1629870182287?e=2147483647&v=beta&t=Hh2jom7d4epsOMFsj31y32KFvlylzNrAAwYSdzHwSPo" width="100">
-</center>
-
