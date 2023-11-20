@@ -23,7 +23,7 @@ title: Publications
 *European Conference on Computer Vision Workshop, 2022*
 
 ### Contrast and order representations for video self-supervised learning
-Danqing Wang, Jie Shao, ***Yuan Liu***, Bhiksha Raj, Marios Savvides, Zhiqiang Shen<br>
+Kai Hu, Jie Shao, ***Yuan Liu***, Bhiksha Raj, Marios Savvides, Zhiqiang Shen<br>
 *Proceedings of the IEEE/CVF International Conference on Computer Vision, 2021*
 
 
