@@ -8,6 +8,8 @@ title: Yuan Liu
 
 Currently, I am a researcher at WeChat AI, focusing on large language model. Before that, I obtained my Master degree from the University of Hong Kong, and Bachelor degree from Southeast University. I take great pride in my contributions as a core developer and maintainer to a number of renowned open-source projects including MMSelfSup, MMPretrain, MMEngine, MMSegmentation, and OpenCompass. Currently, my interests focus on vision-language model, large language model, representation learning and basemodel. 
 
+**We are looking for excellent interns. If you are interested in multimodal foundation models and large language models, please contact me.**
+
 
 ## News
 
