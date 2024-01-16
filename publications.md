@@ -16,7 +16,7 @@ title: Publications
 
 ### PixMIM: Rethinking Pixel Reconstruction in Masked Image Modeling
 ***Yuan Liu***, ***Songyang Zhang***, Jiacheng Chen, Kai Chen, Dahua Lin<br>
-*Arxiv , 2023*
+*Transactions on Machine Learning Research, 2024*
 
 ### MoQuad: Motion-focused Quadruple Construction for Video Contrastive Learning
 ***Yuan Liu***, Jiacheng Chen, Hao Wu  

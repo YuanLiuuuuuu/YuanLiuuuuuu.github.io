@@ -13,11 +13,11 @@ Currently, I am a researcher at WeChat AI, focusing on large language model. Bef
 
 ## News
 
+* **2024.01.16** One [paper](https://arxiv.org/abs/2303.02416) on self-supervised learning is accepted by TMLR 🎉🎉🎉.
 * **2023.08.29** Join in WeChat as a full-time researcher 🎉🎉🎉.
 * **2023.08.18** Support multimodal model evaluation framework in [OpenCompass](https://opencompass.org.cn/) 🎉🎉🎉.
 * **2023.07.14** One [paper](https://arxiv.org/abs/2308.00261) on self-supervised learning is accepted by ICCV2023 🎉🎉🎉.
 * **2023.07.13** We release [MMBench](https://opencompass.org.cn/mmbench), a meticulously curated dataset to comprehensively evaluate a vision-language model 🔥🔥🔥.
-* **2022.11.05** We win the first place of the fine-grained object recognition challenge of ACCV2022 🎉🎉🎉.
 
 
 ## Experience
