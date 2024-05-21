@@ -13,6 +13,7 @@ Currently, I am a researcher at WeChat AI, focusing on large language model. Bef
 
 ## News
 
+* **2024.05.21** We release a [paper](https://arxiv.org/pdf/2405.11850) focusing on aspects previously overlooked in vision-language model.
 * **2024.01.16** One [paper](https://arxiv.org/abs/2303.02416) on self-supervised learning is accepted by TMLR 🎉🎉🎉.
 * **2023.08.29** Join in WeChat as a full-time researcher 🎉🎉🎉.
 * **2023.08.18** Support multimodal model evaluation framework in [OpenCompass](https://opencompass.org.cn/) 🎉🎉🎉.

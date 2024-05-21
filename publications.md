@@ -6,6 +6,10 @@ title: Publications
 
 ## Main Publications
 
+### Rethinking Overlooked Aspects in Vision-Language Models
+***Yuan Liu***, Le Tian, Xiao Zhou, Jie Zhou  
+*arxiv, 2024*
+
 ### Improving Pixel-based MIM by Reducing Wasted Modeling Capability
 ***Yuan Liu***, Songyang Zhang, Jiacheng Chen, Zhaohui Yu, Kai Chen, Dahua Lin   
 *Proceedings of the IEEE/CVF International Conference on Computer Vision, 2023*
