@@ -13,14 +13,14 @@ Currently, I am a researcher at WeChat AI, focusing on large language model. Bef
 
 ## News
 
+* **2024.09.10** We propose a brand new vision-language model, called [POINTS](https://arxiv.org/abs/2409.04828).
 * **2024.07.27** [VLMEvalKit Technical Report](https://www.arxiv.org/abs/2407.11691) is accepted by ACMMM2024 OpenSource 🎉🎉🎉.
-* **2024.07.01** [MMBench](https://arxiv.org/abs/2307.06281) is accepted by ECCV2024 🎉🎉🎉.
+* **2024.07.01** [MMBench](https://arxiv.org/abs/2307.06281) is accepted by ECCV2024 as Oral Presentation 🎉🎉🎉.
 * **2024.05.21** We release a [paper](https://arxiv.org/pdf/2405.11850) focusing on aspects previously overlooked in vision-language model.
 * **2024.01.16** One [paper](https://arxiv.org/abs/2303.02416) on self-supervised learning is accepted by TMLR 🎉🎉🎉.
 * **2023.08.29** Join in WeChat as a full-time researcher 🎉🎉🎉.
 * **2023.08.18** Support multimodal model evaluation framework in [OpenCompass](https://opencompass.org.cn/) 🎉🎉🎉.
 * **2023.07.14** One [paper](https://arxiv.org/abs/2308.00261) on self-supervised learning is accepted by ICCV2023 🎉🎉🎉.
-* **2023.07.13** We release [MMBench](https://opencompass.org.cn/mmbench), a meticulously curated dataset to comprehensively evaluate a vision-language model 🔥🔥🔥.
 
 
 ## Experience
