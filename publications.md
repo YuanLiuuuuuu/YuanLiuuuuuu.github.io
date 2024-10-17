@@ -6,6 +6,17 @@ title: Publications
 
 ## Main Publications
 
+
+### MEGA-Bench: Scaling Multimodal Evaluation to over 500 Real-World Tasks
+*arxiv, 2024*
+
+### POINTS: Improving Your Vision-language Model with Affordable Strategies
+***Yuan Liu***, Zhongyin Zhao, Ziyuan Zhuang, Le Tian, Xiao Zhou, Jie Zhou  
+*arxiv, 2024*
+
+### VLMEvalKit: An Open-Source Toolkit for Evaluating Large Multi-Modality Models
+*ACMMM 2024*
+
 ### Rethinking Overlooked Aspects in Vision-Language Models
 ***Yuan Liu***, Le Tian, Xiao Zhou, Jie Zhou  
 *arxiv, 2024*
@@ -16,7 +27,7 @@ title: Publications
 
 ### MMBench: Is Your Multi-modal Model an All-around Player?
 ***Yuan Liu***, ***Haodong Duan***, ***Yuanhan Zhang***, ***Bo Li***, ***Songyang Zhang***, Wangbo Zhao, Yike Yuan, Jiaqi Wang, Conghui He, Ziwei Liu, Kai Chen, Dahua Lin<br>
-*Arxiv, 2023*
+*European Conference on Computer Vision, 2024 (Oral)*   
 
 ### PixMIM: Rethinking Pixel Reconstruction in Masked Image Modeling
 ***Yuan Liu***, ***Songyang Zhang***, Jiacheng Chen, Kai Chen, Dahua Lin<br>
