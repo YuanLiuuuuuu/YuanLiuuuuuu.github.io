@@ -6,6 +6,9 @@ title: Publications
 
 ## Main Publications
 
+### POINTS1.5: Building a Vision-Language Model towards Real World Applications
+***Yuan Liu***, Le Tian, Xiao Zhou, Xinyu Gao, Kavio Yu, Jiayi Feng, Yang Yu, Jie Zhou  
+*arxiv, 2024*
 
 ### MEGA-Bench: Scaling Multimodal Evaluation to over 500 Real-World Tasks
 *arxiv, 2024*

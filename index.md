@@ -13,6 +13,7 @@ Currently, I am a researcher at WeChat AI, focusing on large language model. Bef
 
 ## News
 
+* **2024.12.06** We release [POINTS1.5](https://arxiv.org/abs/2412.08443). A strong vision-language model, which ranks first on the OpenCompass leaderboard among all models under 10B🎉🎉🎉.
 * **2024.10.14** We release [MEGA-Bench](https://arxiv.org/abs/2410.10563), which contains 500+ real-world tasks to evaluate vision-language models🎉🎉🎉.
 * **2024.10.10** We launch the [WePOINTS](https://github.com/WePOINTS/WePOINTS) project and opensource [POINTS](https://huggingface.co/WePOINTS/POINTS-Qwen-2-5-7B-Chat)🔥🔥🔥.
 * **2024.09.10** We propose a brand new vision-language model, called [POINTS](https://arxiv.org/abs/2409.04828).
