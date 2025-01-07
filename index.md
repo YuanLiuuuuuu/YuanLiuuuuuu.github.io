@@ -23,4 +23,9 @@ Currently, I am a senior researcher at WeChat AI, focusing on large language mod
 * **2024.01.16** One [paper](https://arxiv.org/abs/2303.02416) on self-supervised learning is accepted by TMLR 🎉🎉🎉.
 * **2023.08.29** Join in WeChat as a full-time researcher 🎉🎉🎉.
 
+## Experience
+
+* **2025.01 - Current** Senior Researcher at WeChat AI
+* **2023.08 - 2025.01** Researcher at WeChat AI
+
 
