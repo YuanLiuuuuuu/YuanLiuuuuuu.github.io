@@ -13,6 +13,7 @@ Currently, I am a senior researcher at WeChat AI, focusing on large language mod
 
 ## News
 
+* **2025.08.21** [POINTS-Reader](https://github.com/Tencent/POINTS-Reader) is accepted by EMNLP2025 Main Conference 🎉  🎉🎉. A strong end-to-end model for document conversion, and please have a try!
 * **2024.12.06** We release [POINTS1.5](https://arxiv.org/abs/2412.08443). A strong vision-language model, which ranks first on the OpenCompass leaderboard among all models under 10B🎉🎉🎉.
 * **2024.10.14** We release [MEGA-Bench](https://arxiv.org/abs/2410.10563), which contains 500+ real-world tasks to evaluate vision-language models🎉🎉🎉.
 * **2024.10.10** We launch the [WePOINTS](https://github.com/WePOINTS/WePOINTS) project and opensource [POINTS](https://huggingface.co/WePOINTS/POINTS-Qwen-2-5-7B-Chat)🔥🔥🔥.
