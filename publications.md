@@ -8,7 +8,7 @@ title: Publications
 
 ### POINTS-Reader: Distillation-Free Adaptation of Vision-Language Models for Document Conversion
 ***Yuan Liu***, Zhongyin Zhao, Le Tian, Haicheng Wang, Xubing Ye, Yangxiu You, Zilin Yu, Chuhan Wu, Xiao Zhou, Yang Yu, Jie Zhou  
-*EMNLP 2025 Main Conference*
+*EMNLP 2025*
 
 ### POINTS1.5: Building a Vision-Language Model towards Real World Applications
 ***Yuan Liu***, Le Tian, Xiao Zhou, Xinyu Gao, Kavio Yu, Jiayi Feng, Yang Yu, Jie Zhou  
