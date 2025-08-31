@@ -15,7 +15,7 @@ title: Publications
 *arxiv, 2024*
 
 ### MEGA-Bench: Scaling Multimodal Evaluation to over 500 Real-World Tasks
-*arxiv, 2024*
+*ICLR 2025*
 
 ### POINTS: Improving Your Vision-language Model with Affordable Strategies
 ***Yuan Liu***, Zhongyin Zhao, Ziyuan Zhuang, Le Tian, Xiao Zhou, Jie Zhou  
